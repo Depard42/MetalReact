@@ -1,0 +1,35 @@
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff; /* Белый фон */
+    padding: 10px 0; /* Убираем отступ сверху и снизу чтобы иконки не уходили в края при малых экранах*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid #e0e0e0; /* Более светлый серый */
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.05); /* Более слабая тень */
+}
+
+.bottom-nav div {
+    text-decoration: none;
+    color: #757575; /* Средне-серый цвет текста */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Центрирование по вертикали */
+    width: 33.33%; /*  Равномерная ширина для каждого элемента */
+    height: 40px; /* Фиксированная высота для выравнивания */
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.bottom-nav i {
+    font-size: 17px; /* Размер иконок */
+    margin-bottom: 5px;
+}
+
+.bottom-nav div.active {
+    color: #2196f3; /* Синий цвет для активного элемента */
+}

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MetalReact/build/static/css/main.56b864d2.css",
+    "main.js": "/MetalReact/build/static/js/main.b65a2b1a.js",
+    "static/css/928.d6224e94.chunk.css": "/MetalReact/build/static/css/928.d6224e94.chunk.css",
+    "static/js/928.26e74477.chunk.js": "/MetalReact/build/static/js/928.26e74477.chunk.js",
+    "static/css/948.28f38dcc.chunk.css": "/MetalReact/build/static/css/948.28f38dcc.chunk.css",
+    "static/js/948.77fed19b.chunk.js": "/MetalReact/build/static/js/948.77fed19b.chunk.js",
+    "static/css/6.be390829.chunk.css": "/MetalReact/build/static/css/6.be390829.chunk.css",
+    "static/js/6.61da72b0.chunk.js": "/MetalReact/build/static/js/6.61da72b0.chunk.js",
+    "static/js/25.8971a88f.chunk.js": "/MetalReact/build/static/js/25.8971a88f.chunk.js",
+    "static/js/354.88b31224.chunk.js": "/MetalReact/build/static/js/354.88b31224.chunk.js",
+    "static/media/sheet.png": "/MetalReact/build/static/media/sheet.112349872d525ca837f2.png",
+    "index.html": "/MetalReact/build/index.html",
+    "main.56b864d2.css.map": "/MetalReact/build/static/css/main.56b864d2.css.map",
+    "main.b65a2b1a.js.map": "/MetalReact/build/static/js/main.b65a2b1a.js.map",
+    "928.d6224e94.chunk.css.map": "/MetalReact/build/static/css/928.d6224e94.chunk.css.map",
+    "928.26e74477.chunk.js.map": "/MetalReact/build/static/js/928.26e74477.chunk.js.map",
+    "948.28f38dcc.chunk.css.map": "/MetalReact/build/static/css/948.28f38dcc.chunk.css.map",
+    "948.77fed19b.chunk.js.map": "/MetalReact/build/static/js/948.77fed19b.chunk.js.map",
+    "6.be390829.chunk.css.map": "/MetalReact/build/static/css/6.be390829.chunk.css.map",
+    "6.61da72b0.chunk.js.map": "/MetalReact/build/static/js/6.61da72b0.chunk.js.map",
+    "25.8971a88f.chunk.js.map": "/MetalReact/build/static/js/25.8971a88f.chunk.js.map",
+    "354.88b31224.chunk.js.map": "/MetalReact/build/static/js/354.88b31224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b864d2.css",
+    "static/js/main.b65a2b1a.js"
+  ]
+}

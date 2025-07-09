@@ -1,0 +1,27 @@
+.info_elements_wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-70%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  width: 80%;
+  text-align: center;
+}
+
+.loading_circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 4px solid #ddd;
+    border-color: #2f89bd transparent #2f89bd transparent;
+    animation: spin 3s linear infinite;
+    opacity: 0.6;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg)}
+  100% { transform: rotate(360deg)}
+}
